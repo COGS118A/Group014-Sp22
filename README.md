@@ -1,10 +1,4 @@
-# COGS118A Project template
-This is your group repo for your final project for COGS118A
+# COGS118A Project on predicting the final purchase decisions of consumers based on their online shopping behaviors
 
-This repository is publicly visible! We will be using that feature to do peer review of projects.
-
-Template notebooks for each component are provided. Only work on the notebook prior to its due date. After each submission is due, move onto the next notebook (For example, after the proposal is due, start working in the Data Checkpoint notebook).
-
-This is your repo. You are free to manage the repo as you see fit, edit this README, add data files, add scripts, etc. So long as there are the four files above on due dates with the required information, the rest is up to you all.
-
-Also, you are free and encouraged to share this project after the course and to add it to your portfolio. Just be sure to fork it to your GitHub at the end of the quarter!
+## Abstract
+With the shift to digital life, online shopping becomes the major source of consumer consumption for its convenient features and personalized settings. It would be highly profitable if we can learn the patterns and attribution of consumer purchase decisions either for companies to predict and increase profits or to further personalize consumer experiences. Thus, in our project, we aim to predict the final purchase decisions of consumers based on their shopping behaviors. We employ the “Online Shoppers Purchasing Intention” dataset from UCI Machine Learning Repository measuring various aspects of consumer shopping behaviors including time-spent on page, number of pages browsed, special days influence, etc. Then we apply various machine learning models such as logistic regression, K-NN, and decision trees to fit the data and use confusion matrix and classification accuracy as the metrics to evaluate the performance of our models.
